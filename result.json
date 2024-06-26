@@ -1,0 +1,102 @@
+{
+  "menu": {
+    "breakfast": [
+      {
+        "food": "Scrambled eggs",
+        "quantity": "200g"
+      },
+      {
+        "food": "Avocado slices",
+        "quantity": "100g"
+      },
+      {
+        "food": "Whole grain toast",
+        "quantity": "2 slices"
+      },
+      {
+        "food": "Greek yogurt",
+        "quantity": "150g"
+      }
+    ],
+    "morning_snack": [
+      {
+        "food": "Mixed nuts",
+        "quantity": "30g"
+      },
+      {
+        "food": "Apple slices",
+        "quantity": "1 medium apple"
+      }
+    ],
+    "lunch": [
+      {
+        "food": "Grilled chicken breast",
+        "quantity": "150g"
+      },
+      {
+        "food": "Quinoa",
+        "quantity": "100g"
+      },
+      {
+        "food": "Steamed broccoli",
+        "quantity": "100g"
+      }
+    ],
+    "afternoon_snack": [
+      {
+        "food": "Carrot sticks",
+        "quantity": "100g"
+      },
+      {
+        "food": "Hummus",
+        "quantity": "50g"
+      }
+    ],
+    "dinner": [
+      {
+        "food": "Salmon fillet",
+        "quantity": "150g"
+      },
+      {
+        "food": "Brown rice",
+        "quantity": "100g"
+      },
+      {
+        "food": "Roasted asparagus",
+        "quantity": "100g"
+      }
+    ],
+    "evening_snack": [
+      {
+        "food": "Cottage cheese",
+        "quantity": "150g"
+      },
+      {
+        "food": "Almond butter",
+        "quantity": "1 tablespoon"
+      }
+    ]
+  },
+  "grocery_list": [
+    {
+      "food": "Quinoa",
+      "quantity": "500g"
+    },
+    {
+      "food": "Broccoli",
+      "quantity": "500g"
+    },
+    {
+      "food": "Chicken breast",
+      "quantity": "1kg"
+    },
+    {
+      "food": "Salmon",
+      "quantity": "500g"
+    },
+    {
+      "food": "Sweet potatoes",
+      "quantity": "1kg"
+    }
+  ]
+}
